@@ -8,6 +8,7 @@ Recommendations for submitting an R package to CRAN
 * Make sure to read the following sections of the "[Writing R Extensions](http://cran.r-project.org/doc/manuals/r-release/R-exts.html)" manual:
   * [1.1 Package Structure](http://cran.r-project.org/doc/manuals/r-release/R-exts.html#DOCF2)
   * [1.1 The DESCRIPTION file](http://cran.r-project.org/doc/manuals/r-release/R-exts.html#The-DESCRIPTION-file). The "good practices" listed there, such as avoiding "this package" in the Description, are more-or-less **mandatory**.
+* http://kbroman.org/pkg_primer/pages/cran.html
 
 ## For packages with compiled code
 
